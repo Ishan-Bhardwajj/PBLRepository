@@ -1,0 +1,9 @@
+Source,Destination
+Main Gate,Administration
+Administration,Library
+Library,Cafeteria
+Cafeteria,Administration
+Main Gate,Lecture Halls
+Lecture Halls,Science Building
+Cafeteria,Hostel Area
+Science Building,Hostel Area

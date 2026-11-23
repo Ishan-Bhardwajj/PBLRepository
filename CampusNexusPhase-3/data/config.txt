@@ -1,0 +1,12 @@
+# Campus Nexus - map configuration (key=value, '#' starts a comment)
+#
+# The campus image is a fictitious, AI-generated top-down view, so its real-world
+# scale is an ASSUMPTION. At 0.5 metres per pixel the 1672 x 941 px image covers
+# about 836 m x 470 m (~39 hectares) - a typical university campus.
+# Change metres_per_pixel and every distance in the program rescales automatically.
+image_base=images/campus_base.png
+image_reference=images/campus_reference.png
+image_width=1672
+image_height=941
+metres_per_pixel=0.5
+walking_speed_mps=1.4
